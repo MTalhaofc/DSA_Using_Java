@@ -3,6 +3,7 @@ public class sqrt {
     public static void main(String[] args) {
         int ans=  mySqrt(8);
 System.out.println(ans);
+
     }
 
     static int mySqrt(int x) {
